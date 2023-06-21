@@ -1,0 +1,98 @@
+body{
+    margin: 0%;
+    margin-left:3%;
+    margin-right:3%;
+    display: block;
+    font-size: 90%;
+}
+.profile img{
+    display: block;
+    margin-left:45%;
+    margin-right: auto;
+    margin-top:1.5%;
+    border-radius:50%;
+    width:10%;
+    
+}
+h3{
+    margin: 0%0%.5%0%;
+}
+h4{
+    margin:0.5%0%0%0%;
+}
+h5{
+    margin-bottom: 0%;
+}
+.name{
+    text-align:center;
+    margin-top:1%;
+    margin-left:0%;
+}
+.info{
+    margin-top:1%;
+    padding:.5%0%.5%0%;
+    background-color: lightgrey;
+}
+.summary{
+    margin-left:0%;
+    text-align:justify;
+    font-family: 'Times New Roman', Times, serif;
+}
+.summary p{
+    margin-left: 2%;
+    margin-top:0%;
+}
+ul li{
+    list-style-type:square;
+    padding-bottom: 1%;
+    margin-left:-5%;
+}
+.left{
+    margin-left:1%;
+    margin-top: 5%;
+}
+.right{
+    margin-left:20%;
+    margin-top: 5%;
+}
+.contain{
+    display:flex;
+}
+.certificate p{
+    text-align: right;
+    margin-right:15%;
+}
+.certificate h4{
+    margin-right:50%;
+    text-align: right;
+}
+.certificate{
+    margin-right:0%;
+    margin-left:0%;
+    margin-top:0%;
+}
+.lang{
+    text-align: right;
+    margin-right:50%;
+    margin-left:0%;
+}
+.lang h4{
+    text-align: right;
+    margin-right:15%;
+    
+}
+.lang ul{
+   margin-left:30%;
+}
+.lang ul li{
+    margin-right:43%;
+}
+.edu h4{
+    text-align: right;
+    margin-right:55%;
+}
+.edu p{
+    margin-left: 20%;
+}
+
+
